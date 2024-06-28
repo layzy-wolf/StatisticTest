@@ -1,0 +1,5 @@
+port: <PORT>
+db_socket: <CLICKHOUSE_SOCKET>
+db_name: <CLICKHOUSE_DB_NAME>
+db_user: <CLICKHOUSE_USER>
+db_password: <CLICKHOUSE_PASSWORD>
